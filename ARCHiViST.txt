@@ -1,0 +1,23 @@
+ _____ _____ _____ _____ _ _____ _ _____ _____ 
+|  _  | __  |     |  |  |_|  |  |_|   __|_   _|
+|     |    -|   --|     | |  |  | |__   | | |  
+|__|__|__|__|_____|__|__|_|\___/|_|_____| |_|
+------pRoJeCt ARCHiViST [tHe sCeNe]------------
+
+ "An archivist (AR-kiv-ist) is an information 
+ professional who assesses, collects, organizes,
+ preserves, maintains control over, and provides
+ access to records and archives determined to have 
+ long-term value. The records maintained by an 
+ archivist can consist of a variety of forms, 
+ including letters, diaries, logs, various 
+ other writings, official documents, sound 
+ and/or picture recordings, etc."
+
+ We do archive every SCENE RELEASE we get.
+ We obtaining every ENGLISH, FRENCH, GERMAN
+                    SPANISH, NORDIC releases.
+ 
+┌-----[DATE]---┬--[FiLES]--┬---[SiZE]---┐
+| 05-Jan-2o17  | 4,380,000 |   134 TB   |
+└--------------┴-----------┴------------┘
